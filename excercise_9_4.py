@@ -1,3 +1,4 @@
+#Check description below for details on the excercise
 filename = input("Enter file name: ")
 
 if len(filename) < 1:
