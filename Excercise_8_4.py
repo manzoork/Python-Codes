@@ -1,3 +1,4 @@
+# Check description below for details of Excercise
 fname = input("Enter file name: ")
 try:
     fhandle = open(fname)
