@@ -1,3 +1,4 @@
+# Check below descriptions for details on the Excercise
 filename = input("Enter file name: ")
 if len(filename) < 1 : fhandle = open("mbox-short.txt")
 else : fhandle = open(filename)
