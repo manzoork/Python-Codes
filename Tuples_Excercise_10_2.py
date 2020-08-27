@@ -1,4 +1,4 @@
-# Check description below for excercise details
+# Check description below for excercise details.
 """
 Created on Sat Jun 27 22:41:56 2020
 
