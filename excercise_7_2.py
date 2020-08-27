@@ -1,8 +1,7 @@
-fname = input("Enter file name: ")
-try:
-    fhandle = open(fname)
-except :
-    print ("Invalid file name")
+
+
+tfname = input("Enter file name: ")
+fhandle = open(fname)
 n = 0
 tot = 0
 for line in fhandle:
