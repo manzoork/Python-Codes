@@ -1,4 +1,4 @@
-
+#Check description below for details on excercise
 
 tfname = input("Enter file name: ")
 fhandle = open(fname)
